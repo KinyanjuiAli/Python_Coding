@@ -1,6 +1,6 @@
 """
 Collatz Sequence Generator
-Author: Your Name
+Author: Hussein Kinyanjui
 Book: Automate the Boring Stuff with Python - Chapter 3 Practice Project
 
 This script takes an integer input from the user and executes the Collatz 
