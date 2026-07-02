@@ -1,6 +1,6 @@
 """
 Guess the Number Game
-Author: [Your chosen full name]
+Author: Hussein Ali
 Source: Automate the Boring Stuff with Python – Chapter 3: Functions
 
 Description:
